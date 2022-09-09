@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>BlackJack Game <img src="https://user-images.githubusercontent.com/92337927/189449280-c2410f15-5499-4efd-8a6c-9e34521f9677.png" width="30px" ></h1>
+   <h1>BlackJack Game <img src="https://user-images.githubusercontent.com/92337927/189449280-c2410f15-5499-4efd-8a6c-9e34521f9677.png" width="50px" ></h1>
 </div>
 <div>
 At the beginning of the game, the 3 players and the dealer are dealt 2 cards each. We see both players’
