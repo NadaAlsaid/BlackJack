@@ -13,7 +13,7 @@ another card. You make this move to increase your score. STANDmeans that the pla
 new cards (i.e. Hitting) and their turn ends. You do this move when you are comfortable with your score 
 (e.g. score=19 is very close to 21, picking another card could make you lose the game by going over 21
 (Player BUSTED). 
-</div>![Screenshot (824)]()
+</div>
 
    <div>
 When the player’s turn ends, the next player starts to play in turns. If the maximum score of all players is 
